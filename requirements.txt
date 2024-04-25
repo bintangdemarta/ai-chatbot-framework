@@ -9,7 +9,7 @@ click==7.1.2
 cloudpickle==1.6.0
 cymem==2.0.5
 spacy==3.2.0
-en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.2.0/en_core_web_md-3.2.0-py3-none-any.whl
+en-core-web-md @https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.2.0/en_core_web_md-3.2.0-py3-none-any.whl
 Flask==1.1.2
 Flask-Cors==3.0.3
 flask-mongoengine==0.9.5
